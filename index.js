@@ -1,7 +1,7 @@
 const car = {
-    type: "Fiat",
+    type: "BMW",
     model: "500",
-    color: "white"
+    color: "black"
 };
 
 (async () => {
